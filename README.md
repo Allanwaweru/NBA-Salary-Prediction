@@ -1,5 +1,6 @@
 # NBA-Salary-Prediction
-<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+![b32b32768a161b8c51a010d0b1a9f469](https://user-images.githubusercontent.com/94552522/151255751-a7c1f0e8-808e-4f26-bd6c-73326add077a.jpeg)
+
 
 The goal was to create a model and predict what salary should be given to the NBA players based on their statistics in the NBA. 
 I found it intriguing to work on this because I am an avid NBA fan and because this translates to a  real-world problem 
