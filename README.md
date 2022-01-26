@@ -1,5 +1,5 @@
 # NBA-Salary-Prediction
-<img width="300" height="370" src="https://user-images.githubusercontent.com/94552522/151256246-763c57e0-7193-48b4-ba39-8d319c68a233.png" align=right>
+<img width="400" height="400" src="https://user-images.githubusercontent.com/94552522/151256246-763c57e0-7193-48b4-ba39-8d319c68a233.png" align=right>
 
 The goal was to create a model and predict what salary should be given to the NBA players based on their statistics in the NBA. 
 I found it intriguing to work on this because I am an avid NBA fan and because this translates to a  real-world problem 
