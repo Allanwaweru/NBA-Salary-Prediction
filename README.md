@@ -27,17 +27,10 @@ https://www.kaggle.com/koki25ando/salary
 
 - Exploratory Data Analysis
 - Models Explored:
-1. Linear model
-    a. Multivariant Linear Model
-    b. Ridge Regression
-    c. Lasso Regression
-    d. Principle Component Analysis
-    e. Principle Component Regression
-2. Random Forest
-3. Bagging 
-4. Boosting
-5. Neural Networks
-6. Clustering + Regression
+  - KNN Regressor Model
+  - Multiple Linear Regression Model
+  - Random Forest Model
+ 
 
 ## Model Comparison and Conclusion:
 
