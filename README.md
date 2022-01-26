@@ -24,7 +24,6 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 https://www.kaggle.com/rikdifos/nba-players-salary-prediction/data?select=NBA_season1718_salary.csv
 https://www.kaggle.com/rikdifos/nba-players-salary-prediction/data?select=Players.csv
-
 https://www.kaggle.com/rikdifos/nba-players-salary-prediction/data?select=Seasons_Stats.csv
 
 
