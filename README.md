@@ -1,11 +1,9 @@
 # NBA-Salary-Prediction
-Predicting the salaries of NBA players based off their player stats
+The goal was to create a model and predict what salary should be given to the NBA players based on their statistics in the NBA. 
+I found it intriguing to work on this because I am an avid NBA fan and because this translates to a  real-world problem 
 
-This project aims to explore how a wide variety of NBA statistics can be used to predict the salary of an NBA player from 1995 to 2017. My goals for this project are to:
-- Discover which statistics are the best predictors of an NBA player’s salary
-- Use a machine learning model to predict NBA salaries
-- Determine which players have been overvalued and undervalued according to their given vs. predicted salary
-- Determine which teams are the best and worst at extracting value from their players and if there is a correlation with the amount of games a team wins
+The project's main objective was to conduct an exploratory analysis and develop models that are used in predicting how much salary should be given. The analysis and the models support each other in ensuring that the prediction is nearly accurate. The data sets used in this project are a training data set, which has a model of 353 players, and testing data set with 89 players
+
 
 ### Install
 
