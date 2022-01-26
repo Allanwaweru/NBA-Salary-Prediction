@@ -22,7 +22,9 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 ## Data Source:
 
-https://www.kaggle.com/koki25ando/salary
+https://www.kaggle.com/rikdifos/nba-players-salary-prediction/data?select=NBA_season1718_salary.csv
+https://www.kaggle.com/rikdifos/nba-players-salary-prediction/data?select=Players.csv
+https://www.kaggle.com/rikdifos/nba-players-salary-prediction/data?select=Seasons_Stats.csv
 
 
 ## Analysis Steps:
@@ -41,7 +43,3 @@ Overall, the results we obtained are significant because this was the most impor
 - Random Forest Regressor: 61.4%
 - K-Nearest Neighbor: 61.8%
 - Linear Regression: 40.4%
-
-The results may be misleading due to the data, how they are partitioned, the different machine learning models we used, and how the models are configured. The data was imported from a raw file which is not always the best form for analysis. Before any regression or analysis was done, we trained the models, used the specified datasets, and cleaned them to remove any null values. As for the most preventable part of the analysis, we separated it into X and Y for training and testing sets to partition our data. More information will be found in this report's Data Analysis/Preprocessing section. Overall, the models we build we reasonably reasonable to be used in an actual world situation but to improve it, we would need more data instead of just the 2017-18 season data. 
-
-
