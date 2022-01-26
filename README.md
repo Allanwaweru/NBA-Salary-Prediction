@@ -1,6 +1,7 @@
 # NBA-Salary-Prediction<img width="350" height="350" src="https://user-images.githubusercontent.com/94552522/151256246-763c57e0-7193-48b4-ba39-8d319c68a233.png" align=right>
 
 The goal was to create a model and predict what salary should be given to the NBA players based on their statistics in the NBA. 
+
 I found it intriguing to work on this because I am an avid NBA fan and because this translates to a  real-world problem 
 
 The project's main objective was to conduct an exploratory analysis and develop models that are used in predicting how much salary should be given. The analysis and the models support each other in ensuring that the prediction is nearly accurate. The data sets used in this project are a training data set, which has a model of 353 players, and testing data set with 89 players
